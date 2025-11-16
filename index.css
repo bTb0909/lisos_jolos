@@ -1,0 +1,33 @@
+body {
+    background-color: #B13232;
+    color: rgb(200, 200, 200);
+    text-align: center;
+    font-size: 2em;
+    margin: 0;
+    padding: 0;
+}
+.item {
+    background-color:aliceblue;
+    box-shadow: 5px 5px 5px black;
+    color: black;
+    font-weight: bolder;
+    margin: 2em;
+    padding: 0.5em;
+    border: 3px solid black;
+    text-align: center;
+    letter-spacing: 1em;
+    font-size: 2em;
+}
+#full_liste {
+    background-color: white;
+    box-shadow: 5px 5px 5px black;
+    margin: 10em;
+    height: 80%;
+}
+#banner {
+    background-color: #0F3D2E;
+    position:sticky;
+    width: 100%;
+    padding: 0.5em;
+    box-shadow: 5px 5px 5px 5px greenyellow;
+}
